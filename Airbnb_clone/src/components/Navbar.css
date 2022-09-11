@@ -1,0 +1,11 @@
+.navbar1 {
+  padding-left: 60px;
+  display: flex;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  width: 200px;
+  height: auto;
+  max-width: 200px;
+}
